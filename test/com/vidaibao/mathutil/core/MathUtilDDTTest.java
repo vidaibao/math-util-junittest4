@@ -6,7 +6,6 @@ package com.vidaibao.mathutil.core;
 
 import junit.framework.Assert;
 import org.junit.Test;
-import static org.junit.Assert.*;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
