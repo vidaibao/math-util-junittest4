@@ -4,4 +4,4 @@
 * Unit Testing source code with JUnit framework
 * ....
 
-vidaibao © 2022 GitHub, Inc.
+© 2022 vidaibao
